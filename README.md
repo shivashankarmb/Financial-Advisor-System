@@ -1,3 +1,84 @@
+# AI-Powered Personal Financial Advisory System
+
+## Overview
+
+The AI-Powered Personal Financial Advisory System is a web-based application designed to help users manage their personal finances efficiently. The system analyzes financial data, tracks spending patterns, and provides personalized financial recommendations. An AI-powered chatbot integrated using the OpenAI API enables users to receive financial guidance through a conversational interface.
+
+## Features
+
+* User Authentication and Account Management
+* Financial Data Management
+* Expense and Income Tracking
+* Personalized Financial Recommendations
+* AI-Powered Financial Chatbot
+* Interactive Dashboard
+* Secure Data Storage
+* Responsive User Interface
+
+## Technology Stack
+
+### Frontend
+
+* React.js
+* HTML5
+* CSS3
+* JavaScript
+
+### Backend
+
+* Java
+* Spring Boot
+
+### Database
+
+* MySQL
+
+### AI Integration
+
+* OpenAI API
+
+## System Architecture
+
+The application follows a client-server architecture:
+
+1. React.js frontend handles user interactions.
+2. Spring Boot backend processes business logic.
+3. MySQL stores user and financial data.
+4. OpenAI API powers the conversational financial assistant.
+
+## Key Responsibilities
+
+* Developed frontend components using React.js.
+* Implemented REST APIs using Spring Boot.
+* Designed and managed MySQL database schemas.
+* Integrated OpenAI API for chatbot functionality.
+* Performed testing, debugging, and deployment activities.
+
+## Learning Outcomes
+
+* Full-Stack Web Development
+* REST API Development
+* Database Design and Integration
+* AI API Integration
+* Software Testing and Debugging
+* Problem Solving and System Design
+
+## Future Enhancements
+
+* Advanced Financial Analytics
+* Investment Portfolio Recommendations
+* Real-Time Financial Insights
+* Mobile Application Support
+* Enhanced AI-Powered Financial Planning
+
+## Author
+
+Shivashankar M B
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
